@@ -1,4 +1,4 @@
-import {Login, Signup} from "../../fixtures/selectors.js";
+import {Login, Signup} from "../fixtures/selectors.js";
 
 Cypress.on('uncaught:exception', (err, runnable) => {
     // returning false here prevents Cypress from

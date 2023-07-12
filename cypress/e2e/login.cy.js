@@ -1,4 +1,4 @@
-import {Login} from "../../fixtures/selectors.js";
+import {Login} from "../fixtures/selectors.js";
 
 
 describe("Given I am on the onboarding page", function () {
