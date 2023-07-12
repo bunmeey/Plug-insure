@@ -1,0 +1,22 @@
+{
+  "name": "plug-insure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunmeey/Plug-insure.git"
+  },
+  "author": "bunmeey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bunmeey/Plug-insure/issues"
+  },
+  "homepage": "https://github.com/bunmeey/Plug-insure#readme",
+  "devDependencies": {
+    "cypress": "^12.17.1"
+  }
+}
